@@ -1,0 +1,148 @@
+"Okay, so if you can write an engaging script
+for your YouTube video, viewers will watch your video for a longer duration, which can
+increase video watch time, views, and overall engagement by 10 times. But if there are so many benefits to writing
+a good script, then it is also a very challenging task that many YouTubers struggle with. Some can't write a good intro, some end up
+with boring scripts, and some find it difficult to start writing a script altogether. So, welcome to the YouTube Script Masterclass. This is a detailed guide where I'll explain
+step by step how you can write an engaging script for your YouTube videos from start
+to finish, so that the audience will stick to your video, and your audience retention
+will significantly improve. Even if you are a complete beginner who has
+never written a script before, after this video, you'll be able to write scripts like
+a pro. I will show you examples from my videos and
+explain how I wrote their scripts. I will also provide some common tips about
+writing scripts. So, let's begin. RESEARCH
+Okay, if you can't start writing a script, then the main reason behind it might be that
+you don't do enough research, and you start writing the script word by word directly. This is not the right way to write a script
+because you don't have a set of information in front of you that you can use to generate
+ideas and write the script. To research, the first step is to decide the
+topic of your video. For example: How to Write YouTube Titles with
+ChatGPT. Now, whatever the topic is, I first write
+it as a heading on top of the page. For research, I recommend using a diary or
+a copy because while researching, you will have many ideas in your mind, and if you write
+them down on paper, you can express them better. After writing the topic of the video, now
+it's time to write all the sub-topics in bullet points that you will explain in your video. For example: I needed to explain how to write
+titles with ChatGPT, so I thought about the individual topics to cover in it and started
+writing them down one by one. Like: the first point was whether writing
+titles with ChatGPT will get more views. The second point was how to write titles with
+ChatGPT, like what are the prompts, etc. And the third point was how to customize those
+titles according to the YouTube algorithm. In this way, you need to mention all the sub-topics
+that will come under the main topic. Similarly, for my video on 5 mistakes that
+YouTubers make, I did the same: wrote the main heading and then listed all the sub-topics
+in bullet points like wrong niche, bad audio, poor branding, etc. After writing these main points, I left enough
+space so that I could write the sub-points under each main point. For example, under the first point, which
+is wrong niche, I wrote sub-points like why YouTubers select the wrong niche, the disadvantages
+of the wrong niche, and how to select the right niche, etc. Keep writing all the important sub-points
+that come to your mind. Keep doing this, and you'll see that you have
+written your research in a structured format. Now, see how easy it will be to write the
+actual word-by-word script based on this research. But if you want to make a video based on just
+these bullet points, congratulations, your script is ready. WRITING:
+Okay, till now, what we have written is the research work. Now, let's talk about how to write the actual
+script. If you have some basic knowledge about scripting,
+you'll know that a YouTube script mainly has 3 parts: the intro, the content in between,
+and the end with the call-to-action (CTA). The content part is the most important, of
+course, because if you don't provide value in your video, what's the use? But even if you write the best content, if
+your intro is weak, people will leave your video in the beginning. That's why, when I write a script, if I spend
+10 hours on it, I spend 2-3 hours just on writing the perfect intro. For an engaging intro, you should keep in
+mind that whatever you write, it should make viewers want to continue watching your video. This is called an intro hook. There are many ways to write an intro hook,
+so I'll tell you 3 of them: No.1 & My Favorite: Hook people by talking
+about their situation. Basically, you need to think about who your
+video is targeting (meaning who is your target audience) and then think about which problem
+you are solving for them (meaning what). Then, you need to say something related to
+that problem that will make your video's target audience relate to it. For example: I have a video called Increase
+Subscribers on YouTube By DOING THIS. Now, the target audience of this video is
+YouTubers whose problem is that their subscribers are not increasing. So I thought about something like this for
+the intro: Here's the word-by-word translation of the
+YouTube script in English: "So, as you saw, I tried to say something
+relatable at the beginning of the video, which made viewers connect with the video, and this
+made them feel that because I know their problem, I also have a solution to that problem, which
+hooks the viewer! You will see the same thing in many YouTubers'
+intros. For example, take a look at Algrow's community
+post video. The target audience of this video is YouTubers,
+and their query is how to use community posts. Now, see how, by paying attention to these
+things, an emotion of FEAR is cleverly created in the viewers' minds in the intro of this
+video. [Video plays] It is not necessary that you always solve
+the viewer's problem in every video. For example, if you are making a documentary
+about a person, what problem will you solve in that? In that case, you can use hook no.2: Make
+them curious. Basically, you have to make the viewers curious
+by creating a question in their minds. For example, see Dhruv Rathee's video on the
+theory of evolution at 28 seconds: [Video plays]
+As you saw, Dhruv Rathee sparked a very good question in the viewers' minds, which hooked
+them. Hook no.3: The Story Method. If there is one guaranteed method to hook
+people, it is by telling a story. That story can be a real-life incident, a
+fictional story, or anything, as long as it is related to the video's topic. So, again, there is no fixed formula for writing
+an intro that you have to follow, but what I have mentioned are common elements in all
+of them, and that is to grab the viewers' attention, intrigue them, or create an emotion
+like fear, anger, or urgency in their minds. Now, another thing is that no matter how you
+write the intro, make sure it is always under 90 seconds and ideally under 30 seconds. After you have written the intro hook, now
+it's time to write the middle part, which is the content. Now, since we have already done the research,
+writing the rest of the script will be easy because we already have the points; we just
+need to elaborate on them. For this, let's take an example from this
+video, which is "5 mistakes new YouTubers make." In this video, point no.2 is "bad audio,"
+and I have already written its sub-points. Let's now convert it into the actual word-by-word
+script. So, as you can see, the first sub-point is
+that "audio is the most important thing for YouTube." I could have started directly with the first
+line, saying, "Dosto audio kharab hai to use jaldi fix kro because audio is important,"
+but that would have been quite boring, and the message I wanted to convey to the viewers
+would not have had the same impact... So, see how I started this point: "An new YouTuber has to work on many things
+in their initial days, such as lighting, audio, camera quality, editing, and much more. But if you ask me which one is the most important
+among them all, I will say 'Audio.' I cannot stress enough how crucial good audio
+is." Now that I have mentioned that audio is important,
+in the 2nd sub-point, I have to explain why it is important, right? So, here I have also explained it: "Any viewer
+can watch a low-quality video with mediocre editing if the audio is good. Whereas, the reverse is not true." And finally, the 3rd sub-point is "how to
+fix bad audio," and I have also explained it: "Like I said earlier, 'What if you don't
+even have a microphone? How do you record good audio without one?' Well, I have explained how you can record
+good audio even without a microphone... You can pause the video to read it in detail." So, in this manner, you have to elaborate
+on each point based on your research. And, of course, don't expect perfect lines
+to come to your mind right away, especially if you're a beginner. It will require some patience. Also, when you write scripts, do it on some
+digital platform; for example, I write my scripts in the notes app on my phone. This way, if you need to make any changes
+later, you can do it easily. Now, try to create a connection between the
+different points you explain in your video. This will greatly improve your storytelling. For example, in my video about "How to Write
+Titles with ChatGPT," there are 2 points. The first one is "how to write titles with
+ChatGPT," and the second one is "how to alter the raw title to make it a good title according
+to the YouTube algorithm." To connect these two points, I wrote, "Now
+that you have found a title in step 1, the question is, should you use that title or
+not? This is where step 2 comes in: 'Altering the
+Raw Title.' This way, the impact of my video's message on the viewers is greater,
+and of course, audience retention will increase. So try to create a question related to the
+next point in the viewers' minds before you start talking about a new point. This way, they will find the answer to that
+question in the next point. In this way, you can connect different points. After you have written the content part, finally,
+we come to the CTA, which is Call to Action, meaning an action that you want the viewer
+to take towards your channel after watching your video. You can tell viewers to like the video, subscribe
+to your channel, or leave a comment. You can do all of this, but the best CTA on
+YouTube is to ask viewers to watch another video of yours by using end screens. To smartly incorporate end screens into your
+script, you have to give viewers a reason to click on them. So, whatever topic you are making a video
+on, find another video on your channel that is related to that topic and think about what
+you can write there to send viewers to that other video. For example, in this video, "Increase Subscribers
+on YouTube by Doing this," where I give 4 tips about increasing subscribers, at the
+end, I wrote, "Alright, you got the 4 tips to grow your subscribers, but what if you
+are not getting any views on your channel? In such a case, chances are you are making
+some common mistakes that every new YouTuber makes. I mentioned views here, and then I wrote,
+"If you want to know about these mistakes, click on the video on the screen." And then, on the screen, I had my 5 mistakes
+video in the end screen. So, you have to think smartly about what you
+can say that is related to your current video, and you
+can then use end screens there. IMPORTANT POINTS
+Okay, so you have learned how to write a script; now let's talk about some important points
+that will help you in writing the script. First is to use the right language to connect
+with your audience. When writing the script, make sure that the
+words you use or the language you use is suitable for your target audience. For example, I know that my target audience
+is mostly young people, so I use light and friendly words, and I also write my script
+in a mix of Hindi and English because I think my target audience can relate to it the best. Second is to be disciplined. When we write a script, many times we don't
+get the right ideas or words. In such a situation, most people get frustrated
+and start procrastinating, like opening Instagram and watching reels, etc. But you shouldn't do that. You have to decide a time for writing the
+script, and during that time, you should not get distracted. Even if you don't have any ideas or words
+for the script, you have to sit and think. The longer you think about the topic, the
+more ideas your brain will generate related to that topic. So, focus is very important. Once you get focused in the beginning, you
+will achieve a flow state, and generating ideas will become easier for you. Third, take your time and avoid perfectionism. I'm sure many of you are complete beginners
+who have never written a script before. I remember 2-3 years ago, when I wrote my
+first word-by-word script, it took me about 4-5 days to write a script for a 5-minute
+video. I'm not saying it will take you the same amount
+of time, but it's quite common for beginners to face this challenge. So, take your time and avoid perfectionism. Fourth, focus more on the first half of the
+video than the second half. If a viewer starts watching your video and
+completes the first half, you don't have to do much to grab their attention in the second
+half. Because, capturing the viewers' attention
+requires more effort in the beginning. Once a viewer is halfway through the video,
+even if your video is not that engaging, most people who have made it that far will watch
+the entire video. So, I'm not saying you can write anything
+in the second half, but I'm saying that your focus should be more on the first half
+of the script. Alright, you have made it this far, so comment
+"SCRIPTING IS NOW FUN," and if you liked the video, please give it a like. Also, if you want to learn editing in detail
+like me, click on the video on the screen. I'll see you there, bye!"
